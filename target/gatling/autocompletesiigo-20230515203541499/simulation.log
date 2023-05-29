@@ -1,0 +1,4 @@
+RUN	scala.simulations.AutocompleteSiigo	autocompletesiigo	1684182941499	 	3.3.1
+ERROR	Buscador de Siigo: Failed to build request: No attribute named 'type' is defined 	1684182943534
+USER	Buscador de Siigo	1	START	1684182943499	1684182943499
+USER	Buscador de Siigo	1	END	1684182943499	1684182948558

@@ -1,0 +1,4 @@
+RUN	scala.simulations.GenerarTokenSiigo	generartokensiigo	1684163982008	 	3.3.1
+USER	Obtener token siigo	1	START	1684163983619	1684163983619
+REQUEST	1		Obtener token siigo	1684163983660	1684163984030	OK	 
+USER	Obtener token siigo	1	END	1684163983619	1684163989061

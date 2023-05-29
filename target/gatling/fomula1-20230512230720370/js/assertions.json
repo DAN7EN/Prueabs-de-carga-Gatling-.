@@ -1,0 +1,10 @@
+{
+  "simulation": "scala.simulations.Fomula1",
+  "simulationId": "fomula1",
+  "start": 1683932840370,
+  "description": "",
+  "scenarios": ["Proxima carrera F1", "Todas las temporadas", "Victorias Checo 2023"],
+  "assertions": [
+
+  ]
+}

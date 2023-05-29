@@ -1,0 +1,5 @@
+<testsuite name="scala.simulations.ObtenerZorros" tests="1" errors="0" failures="0" time="0">
+<testcase name="Global: count of all events is 30.0" status="true" time="0">
+  <system-out>Global: count of all events is 30.0</system-out>
+</testcase>
+</testsuite>

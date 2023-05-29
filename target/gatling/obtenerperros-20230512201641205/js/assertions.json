@@ -1,0 +1,10 @@
+{
+  "simulation": "scala.simulations.ObtenerPerros",
+  "simulationId": "obtenerperros",
+  "start": 1683922601205,
+  "description": "",
+  "scenarios": ["Obtene todos los perros"],
+  "assertions": [
+
+  ]
+}

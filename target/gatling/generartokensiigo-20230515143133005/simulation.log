@@ -1,0 +1,4 @@
+RUN	scala.simulations.GenerarTokenSiigo	generartokensiigo	1684161093005	 	3.3.1
+USER	Obtener token siigo	1	START	1684161094606	1684161094606
+REQUEST	1		Obtener token siigo	1684161094626	1684161094937	KO	status.find.is(200), but actually found 400
+USER	Obtener token siigo	1	END	1684161094606	1684161099958

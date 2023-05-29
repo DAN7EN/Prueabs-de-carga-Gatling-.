@@ -1,0 +1,10 @@
+{
+  "simulation": "scala.simulations.GenerarTokenSiigoV2",
+  "simulationId": "generartokensiigov2",
+  "start": 1684173106762,
+  "description": "",
+  "scenarios": ["Obtener token siigo"],
+  "assertions": [
+
+  ]
+}

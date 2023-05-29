@@ -1,0 +1,10 @@
+{
+  "simulation": "scala.simulations.GitHubSearch",
+  "simulationId": "githubsearch",
+  "start": 1683839002946,
+  "description": "",
+  "scenarios": ["Usuario Estandar", "Usuario Avanzado"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 31,
+        "ok": 16,
+        "ko": 15
+    },
+    "minResponseTime": {
+        "total": 369,
+        "ok": 369,
+        "ko": 859
+    },
+    "maxResponseTime": {
+        "total": 1634,
+        "ok": 1514,
+        "ko": 1634
+    },
+    "meanResponseTime": {
+        "total": 999,
+        "ok": 663,
+        "ko": 1357
+    },
+    "standardDeviation": {
+        "total": 487,
+        "ok": 431,
+        "ko": 211
+    },
+    "percentiles1": {
+        "total": 1286,
+        "ok": 457,
+        "ko": 1409
+    },
+    "percentiles2": {
+        "total": 1418,
+        "ok": 675,
+        "ko": 1507
+    },
+    "percentiles3": {
+        "total": 1521,
+        "ok": 1447,
+        "ko": 1559
+    },
+    "percentiles4": {
+        "total": 1602,
+        "ok": 1501,
+        "ko": 1619
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 12,
+    "percentage": 39
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 4,
+    "percentage": 13
+},
+    "group4": {
+    "name": "failed",
+    "count": 15,
+    "percentage": 48
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 3.1,
+        "ok": 1.6,
+        "ko": 1.5
+    }
+},
+"contents": {
+"req_todas-las-tempo-6da1c": {
+        "type": "REQUEST",
+        "name": "Todas las temporadas",
+"path": "Todas las temporadas",
+"pathFormatted": "req_todas-las-tempo-6da1c",
+"stats": {
+    "name": "Todas las temporadas",
+    "numberOfRequests": {
+        "total": 5,
+        "ok": 5,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 370,
+        "ok": 370,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1514,
+        "ok": 1514,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 1197,
+        "ok": 1197,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 420,
+        "ok": 420,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 1392,
+        "ok": 1392,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 1425,
+        "ok": 1425,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1496,
+        "ok": 1496,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 1510,
+        "ok": 1510,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 1,
+    "percentage": 20
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 4,
+    "percentage": 80
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.5,
+        "ok": 0.5,
+        "ko": 0
+    }
+}
+    },"req_proxima-carrera-0ce15": {
+        "type": "REQUEST",
+        "name": "Proxima carrera F1",
+"path": "Proxima carrera F1",
+"pathFormatted": "req_proxima-carrera-0ce15",
+"stats": {
+    "name": "Proxima carrera F1",
+    "numberOfRequests": {
+        "total": 11,
+        "ok": 11,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 369,
+        "ok": 369,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 472,
+        "ok": 472,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 421,
+        "ok": 421,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 44,
+        "ok": 44,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 433,
+        "ok": 433,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 466,
+        "ok": 466,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 472,
+        "ok": 472,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 472,
+        "ok": 472,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 11,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.1,
+        "ok": 1.1,
+        "ko": 0
+    }
+}
+    },"req_victorias-checo-5851d": {
+        "type": "REQUEST",
+        "name": "Victorias Checo 2023",
+"path": "Victorias Checo 2023",
+"pathFormatted": "req_victorias-checo-5851d",
+"stats": {
+    "name": "Victorias Checo 2023",
+    "numberOfRequests": {
+        "total": 15,
+        "ok": 0,
+        "ko": 15
+    },
+    "minResponseTime": {
+        "total": 859,
+        "ok": 0,
+        "ko": 859
+    },
+    "maxResponseTime": {
+        "total": 1634,
+        "ok": 0,
+        "ko": 1634
+    },
+    "meanResponseTime": {
+        "total": 1357,
+        "ok": 0,
+        "ko": 1357
+    },
+    "standardDeviation": {
+        "total": 211,
+        "ok": 0,
+        "ko": 211
+    },
+    "percentiles1": {
+        "total": 1409,
+        "ok": 0,
+        "ko": 1409
+    },
+    "percentiles2": {
+        "total": 1507,
+        "ok": 0,
+        "ko": 1507
+    },
+    "percentiles3": {
+        "total": 1559,
+        "ok": 0,
+        "ko": 1559
+    },
+    "percentiles4": {
+        "total": 1619,
+        "ok": 0,
+        "ko": 1619
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 15,
+    "percentage": 100
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.5,
+        "ok": 0,
+        "ko": 1.5
+    }
+}
+    }
+}
+
+}

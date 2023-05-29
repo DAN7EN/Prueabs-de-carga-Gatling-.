@@ -1,0 +1,18 @@
+{
+  "simulation": "scala.simulations.ObtenerZorros",
+  "simulationId": "obtenerzorros",
+  "start": 1683907228716,
+  "description": "",
+  "scenarios": ["Usuario Estandar", "Usuario Avanzado"],
+  "assertions": [
+{
+  "path": "Global",
+  "target": "count of failed events",
+  "condition": "is",
+  "expectedValues": [0.0],
+  "result": false,
+  "message": "Global: count of failed events is 0.0",
+  "actualValue": [754.0]
+}
+  ]
+}

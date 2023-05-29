@@ -1,0 +1,10 @@
+{
+  "simulation": "scala.simulations.Fomula1",
+  "simulationId": "fomula1",
+  "start": 1683925431612,
+  "description": "",
+  "scenarios": ["Proxima carrera F1"],
+  "assertions": [
+
+  ]
+}

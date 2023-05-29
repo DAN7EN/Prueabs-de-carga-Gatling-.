@@ -1,0 +1,4 @@
+RUN	scala.simulations.AutocompleteSiigoV2	autocompletesiigov2	1684350775021	 	3.3.1
+USER	Buscador de Siigo	1	START	1684350776258	1684350776258
+REQUEST	1		Buscador de Siigo	1684350776281	1684350776586	OK	 
+USER	Buscador de Siigo	1	END	1684350776258	1684350781611

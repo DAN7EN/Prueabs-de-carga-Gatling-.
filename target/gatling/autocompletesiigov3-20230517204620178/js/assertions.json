@@ -1,0 +1,10 @@
+{
+  "simulation": "scala.simulations.AutocompleteSiigoV3",
+  "simulationId": "autocompletesiigov3",
+  "start": 1684356380178,
+  "description": "",
+  "scenarios": ["Buscador de Siigo"],
+  "assertions": [
+
+  ]
+}

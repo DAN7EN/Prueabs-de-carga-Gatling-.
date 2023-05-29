@@ -1,0 +1,4 @@
+RUN	scala.simulations.AutocompleteSiigo	autocompletesiigo	1684172174859	 	3.3.1
+USER	Buscador de Siigo	1	START	1684172176577	1684172176577
+REQUEST	1		Buscador de Siigo	1684172176628	1684172176975	KO	status.find.is(200), but actually found 401
+USER	Buscador de Siigo	1	END	1684172176577	1684172182013

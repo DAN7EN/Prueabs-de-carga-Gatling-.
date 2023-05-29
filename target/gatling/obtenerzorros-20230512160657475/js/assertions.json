@@ -1,0 +1,18 @@
+{
+  "simulation": "scala.simulations.ObtenerZorros",
+  "simulationId": "obtenerzorros",
+  "start": 1683907617475,
+  "description": "",
+  "scenarios": ["Usuario Estandar", "Usuario Avanzado"],
+  "assertions": [
+{
+  "path": "Global",
+  "target": "count of all events",
+  "condition": "is",
+  "expectedValues": [30.0],
+  "result": true,
+  "message": "Global: count of all events is 30.0",
+  "actualValue": [30.0]
+}
+  ]
+}

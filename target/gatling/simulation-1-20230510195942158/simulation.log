@@ -1,0 +1,7 @@
+RUN	scala.simulations.simulation_1	simulation-1	1683748782158	 	3.3.1
+USER	Obtene todos los perros	2	START	1683748783526	1683748783526
+USER	Obtene todos los perros	1	START	1683748783526	1683748783526
+REQUEST	2		Obtener_Todos_Los_Perros	1683748783551	1683748784950	KO	status.find.is(400), but actually found 200
+USER	Obtene todos los perros	2	END	1683748783526	1683748784973
+REQUEST	1		Obtener_Todos_Los_Perros	1683748783551	1683748785103	KO	status.find.is(400), but actually found 200
+USER	Obtene todos los perros	1	END	1683748783526	1683748785104

@@ -1,0 +1,10 @@
+{
+  "simulation": "scala.simulations.ObtenerZorros",
+  "simulationId": "obtenerzorros",
+  "start": 1683840324837,
+  "description": "",
+  "scenarios": ["Usuario Estandar", "Usuario Avanzado"],
+  "assertions": [
+
+  ]
+}
